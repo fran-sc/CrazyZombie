@@ -16,7 +16,6 @@ public class ZombieSpawner : MonoBehaviour
     {
         StartCoroutine(SpawnZombie());
     }
-
     
     IEnumerator SpawnZombie()
     {
