@@ -6,14 +6,7 @@
 
 `[Unity ver.: 6.0.28f1]`
 
-<center>
-
-![Gameplay](Docs/gameplay.png)
-
-</center>
-
 ## Diseño
-
 
 ### Concepto
 
