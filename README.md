@@ -4,7 +4,7 @@
 
 #### Project: Crazy Zombie
 
-`[Unity ver.: 6.0.28f1]`
+`[Unity ver.: 6.2.8f1]`
 
 ## Diseño
 
